@@ -1,9 +1,74 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="hf0xn92v5Qdgb7F4pPxo">
-    <mxGraphModel>
+    <mxGraphModel dx="1627" dy="916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="GC1zOQPHrWA89CPEcQ5u-1" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="232" width="227" x="670" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GC1zOQPHrWA89CPEcQ5u-2" connectable="0" parent="GC1zOQPHrWA89CPEcQ5u-1" style="group" value="" vertex="1">
+          <mxGeometry height="223" width="176" y="-23" as="geometry" />
+        </mxCell>
+        <mxCell id="GC1zOQPHrWA89CPEcQ5u-3" connectable="0" parent="GC1zOQPHrWA89CPEcQ5u-2" style="group" value="" vertex="1">
+          <mxGeometry height="110.50000000000001" width="158.25" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="GC1zOQPHrWA89CPEcQ5u-4" parent="GC1zOQPHrWA89CPEcQ5u-3" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.misc.air_cooler;" value="" vertex="1">
+          <mxGeometry height="7.857142857142857" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GC1zOQPHrWA89CPEcQ5u-5" connectable="0" parent="GC1zOQPHrWA89CPEcQ5u-3" style="group" value="" vertex="1">
+          <mxGeometry height="158.42857142857144" width="158.25" x="-7.105427357601002e-15" y="-47.92857142857143" as="geometry" />
+        </mxCell>
+        <mxCell id="GC1zOQPHrWA89CPEcQ5u-6" parent="GC1zOQPHrWA89CPEcQ5u-5" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;size=40;" value="" vertex="1">
+          <mxGeometry height="102.14285714285714" width="120" x="7.105427357601002e-15" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="GC1zOQPHrWA89CPEcQ5u-7" edge="1" parent="GC1zOQPHrWA89CPEcQ5u-5" source="GC1zOQPHrWA89CPEcQ5u-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#97D077;strokeWidth=2;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60.00000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GC1zOQPHrWA89CPEcQ5u-8" parent="GC1zOQPHrWA89CPEcQ5u-5" style="shape=mxgraph.pid.heat_exchangers.heat_exchanger_(coil_tubes);html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;rotation=-180;" value="" vertex="1">
+          <mxGeometry height="20.22" width="39" x="40.25" y="136.92" as="geometry" />
+        </mxCell>
+        <mxCell id="GC1zOQPHrWA89CPEcQ5u-9" parent="GC1zOQPHrWA89CPEcQ5u-5" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Dry cooler" vertex="1">
+          <mxGeometry height="30" width="60" x="30" y="64.21857142857145" as="geometry" />
+        </mxCell>
+        <mxCell id="GC1zOQPHrWA89CPEcQ5u-10" parent="GC1zOQPHrWA89CPEcQ5u-5" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Dry cooler fan" vertex="1">
+          <mxGeometry height="30" width="79" x="64" y="24.99857142857143" as="geometry" />
+        </mxCell>
+        <mxCell id="GC1zOQPHrWA89CPEcQ5u-11" edge="1" parent="GC1zOQPHrWA89CPEcQ5u-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#97D077;strokeWidth=2;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="200" as="sourcePoint" />
+            <mxPoint x="60" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GC1zOQPHrWA89CPEcQ5u-12" parent="GC1zOQPHrWA89CPEcQ5u-2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Air" vertex="1">
+          <mxGeometry height="30" width="60" x="34" y="193" as="geometry" />
+        </mxCell>
+        <mxCell id="GC1zOQPHrWA89CPEcQ5u-13" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Phosphor_Light_Vol_2-2941/factory-light-949.svg" value="" vertex="1">
+          <mxGeometry height="172" width="172" x="130" y="133" as="geometry" />
+        </mxCell>
+        <mxCell id="GC1zOQPHrWA89CPEcQ5u-15" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.corporate_data_center;" value="" vertex="1">
+          <mxGeometry height="140" width="95.13" x="490" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="GC1zOQPHrWA89CPEcQ5u-16" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=6;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="40" y="279" as="sourcePoint" />
+            <mxPoint x="1080" y="279" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GC1zOQPHrWA89CPEcQ5u-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B85450;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="440" width="10" x="170" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="GC1zOQPHrWA89CPEcQ5u-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCCC;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="440" width="10" x="190" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="GC1zOQPHrWA89CPEcQ5u-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#007FFF;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="160" width="10" x="840" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="GC1zOQPHrWA89CPEcQ5u-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCCC;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="160" width="10" x="810" y="280" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
