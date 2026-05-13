@@ -30,7 +30,7 @@
         <mxCell id="SlT53tSwkIx6m0tjBwDj-10" edge="1" parent="1" source="7fJh8U9UmBrbY5nEdo98-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="SlT53tSwkIx6m0tjBwDj-2" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7fJh8U9UmBrbY5nEdo98-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" value="Grid scenarios" vertex="1">
+        <mxCell id="7fJh8U9UmBrbY5nEdo98-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" value="Grid scenarios harmonized with GRID projects" vertex="1">
           <mxGeometry height="60" width="120" x="240.25" y="200" as="geometry" />
         </mxCell>
         <mxCell id="7fJh8U9UmBrbY5nEdo98-52" edge="1" parent="1" source="7fJh8U9UmBrbY5nEdo98-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="7fJh8U9UmBrbY5nEdo98-51">
