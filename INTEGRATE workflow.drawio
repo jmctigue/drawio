@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="weHcKqMYfvgHIBIdrH5w">
-    <mxGraphModel dx="1601" dy="1044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="1334" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,16 +22,14 @@
         <mxCell id="7fJh8U9UmBrbY5nEdo98-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;" value="ReEDS with viable new geothermal technologies" vertex="1">
           <mxGeometry height="60" width="132.5" x="941.5" y="594" as="geometry" />
         </mxCell>
-        <mxCell id="7fJh8U9UmBrbY5nEdo98-24" edge="1" parent="1" source="7fJh8U9UmBrbY5nEdo98-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;">
+        <mxCell id="7fJh8U9UmBrbY5nEdo98-24" edge="1" parent="1" source="7fJh8U9UmBrbY5nEdo98-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="7fJh8U9UmBrbY5nEdo98-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="201" y="370" />
-              <mxPoint x="201" y="640" />
-              <mxPoint x="772" y="640" />
-              <mxPoint x="772" y="639" />
+              <mxPoint x="201" y="639" />
             </Array>
             <mxPoint x="221.25" y="446" as="sourcePoint" />
-            <mxPoint x="981" y="640" as="targetPoint" />
+            <mxPoint x="910" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SlT53tSwkIx6m0tjBwDj-10" edge="1" parent="1" source="7fJh8U9UmBrbY5nEdo98-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.448;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" target="SlT53tSwkIx6m0tjBwDj-2" value="">
