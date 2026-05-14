@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="weHcKqMYfvgHIBIdrH5w">
-    <mxGraphModel dx="1414" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="1303" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -99,11 +99,13 @@
         <mxCell id="7fJh8U9UmBrbY5nEdo98-56" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" value="Protocols for including novel-EGS in planning tools" vertex="1">
           <mxGeometry height="75" width="157.5" x="224.25" y="682" as="geometry" />
         </mxCell>
-        <mxCell id="oJyVeBdy-gkezTZRofoa-2" edge="1" parent="1" source="oJyVeBdy-gkezTZRofoa-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="7fJh8U9UmBrbY5nEdo98-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="oJyVeBdy-gkezTZRofoa-2" edge="1" parent="1" source="oJyVeBdy-gkezTZRofoa-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="270" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="oJyVeBdy-gkezTZRofoa-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" value="Hybrid modelling in reV" vertex="1">
-          <mxGeometry height="40" width="119" x="593.5" y="56" as="geometry" />
+          <mxGeometry height="40" width="119" x="829.5" y="314" as="geometry" />
         </mxCell>
         <mxCell id="oJyVeBdy-gkezTZRofoa-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;TASK 1&lt;/b&gt;" vertex="1">
           <mxGeometry height="20" width="120" x="170" y="20" as="geometry" />
