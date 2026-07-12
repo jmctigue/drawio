@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="weHcKqMYfvgHIBIdrH5w">
-    <mxGraphModel dx="3509" dy="1949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="2047" dy="1137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -271,13 +271,20 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PGyb04B-bBSyxvnn9_xd-104" edge="1" parent="1" source="PGyb04B-bBSyxvnn9_xd-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="PGyb04B-bBSyxvnn9_xd-57">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="1307" />
+              <mxPoint x="300" y="1441" />
+              <mxPoint x="290" y="1441" />
+              <mxPoint x="290" y="1576" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="PGyb04B-bBSyxvnn9_xd-61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" value="reValue&amp;nbsp;&lt;span style=&quot;font-size: 13px;&quot;&gt;System Signals:&amp;nbsp;Opportunity for Novel Geothermal&lt;/span&gt;" vertex="1">
           <mxGeometry height="75" width="155.75" x="322.24" y="1231.5" as="geometry" />
         </mxCell>
         <mxCell id="PGyb04B-bBSyxvnn9_xd-65" connectable="0" parent="1" style="group;strokeColor=none;" value="" vertex="1">
-          <mxGeometry height="155" width="157.76" x="322.24" y="1318" as="geometry" />
+          <mxGeometry height="155" width="157.76" x="341.25" y="1318" as="geometry" />
         </mxCell>
         <mxCell id="PGyb04B-bBSyxvnn9_xd-5" parent="PGyb04B-bBSyxvnn9_xd-65" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=middle;align=left;fontSize=17;" value="&amp;nbsp; reV&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="155" width="157.76" as="geometry" />
@@ -289,7 +296,7 @@
           <mxGeometry height="45" width="147.77" x="102" y="1510" as="geometry" />
         </mxCell>
         <mxCell id="PGyb04B-bBSyxvnn9_xd-71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" value="refined CO &amp;amp; NM geothermal resource" vertex="1">
-          <mxGeometry height="64" width="119" x="150" y="1371.5" as="geometry" />
+          <mxGeometry height="64" width="119" x="122" y="1371.5" as="geometry" />
         </mxCell>
         <mxCell id="PGyb04B-bBSyxvnn9_xd-77" edge="1" parent="1" source="PGyb04B-bBSyxvnn9_xd-12" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=classic;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="PGyb04B-bBSyxvnn9_xd-61" value="">
           <mxGeometry relative="1" width="100" as="geometry">
@@ -302,9 +309,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PGyb04B-bBSyxvnn9_xd-79" parent="1" style="whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" value="Baseline ReEDS run" vertex="1">
-          <mxGeometry height="60.5" width="136.07" x="520" y="1138" as="geometry" />
+          <mxGeometry height="60.5" width="136.07" x="528" y="1131" as="geometry" />
         </mxCell>
-        <mxCell id="PGyb04B-bBSyxvnn9_xd-83" edge="1" parent="1" source="PGyb04B-bBSyxvnn9_xd-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="PGyb04B-bBSyxvnn9_xd-79">
+        <mxCell id="rV11CxTj-RFXBWxdGiG--1" edge="1" parent="1" source="PGyb04B-bBSyxvnn9_xd-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="PGyb04B-bBSyxvnn9_xd-79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PGyb04B-bBSyxvnn9_xd-82" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" value="Hydrothermal &amp;amp; EGS supply curves" vertex="1">
