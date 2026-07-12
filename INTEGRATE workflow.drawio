@@ -269,8 +269,8 @@
         <mxCell id="PGyb04B-bBSyxvnn9_xd-52" edge="1" parent="1" source="PGyb04B-bBSyxvnn9_xd-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="PGyb04B-bBSyxvnn9_xd-55" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PGyb04B-bBSyxvnn9_xd-53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;" value="4.1: Price-taker modeling" vertex="1">
-          <mxGeometry height="60" width="132.5" x="128.74999999999994" y="1652.52" as="geometry" />
+        <mxCell id="PGyb04B-bBSyxvnn9_xd-53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;" value="4.1: Identify economically viable technologies and sites" vertex="1">
+          <mxGeometry height="81" width="141.25" x="128.75" y="1669" as="geometry" />
         </mxCell>
         <mxCell id="PGyb04B-bBSyxvnn9_xd-54" edge="1" parent="1" source="PGyb04B-bBSyxvnn9_xd-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="PGyb04B-bBSyxvnn9_xd-9">
           <mxGeometry relative="1" as="geometry" />
@@ -298,7 +298,16 @@
             <mxPoint x="1000" y="1500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PGyb04B-bBSyxvnn9_xd-79" parent="1" style="whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" value="1.6: Initial ReEDS runs: extract the system price signals" vertex="1">
+        <mxCell id="rV11CxTj-RFXBWxdGiG--17" edge="1" parent="1" source="PGyb04B-bBSyxvnn9_xd-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="PGyb04B-bBSyxvnn9_xd-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="930" y="1164" />
+              <mxPoint x="930" y="1630" />
+              <mxPoint x="195" y="1630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PGyb04B-bBSyxvnn9_xd-79" parent="1" style="whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" value="1.6: Initial ReEDS runs: extract the system price signals (price-taker modeling" vertex="1">
           <mxGeometry height="76.83" width="155.75" x="696.25" y="1125.17" as="geometry" />
         </mxCell>
         <mxCell id="rV11CxTj-RFXBWxdGiG--1" edge="1" parent="1" source="PGyb04B-bBSyxvnn9_xd-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="PGyb04B-bBSyxvnn9_xd-79">
@@ -318,11 +327,6 @@
         </mxCell>
         <mxCell id="PGyb04B-bBSyxvnn9_xd-57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;3.1 Improve topside geothermal costs&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="170" x="110" y="1510" as="geometry" />
-        </mxCell>
-        <mxCell id="PGyb04B-bBSyxvnn9_xd-59" edge="1" parent="1" source="rV11CxTj-RFXBWxdGiG--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="PGyb04B-bBSyxvnn9_xd-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="750" y="1544" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="PGyb04B-bBSyxvnn9_xd-95" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="116.01" width="190" x="310" y="1483.99" as="geometry" />
@@ -358,7 +362,7 @@
           <mxGeometry height="91.55" width="169.75" x="530" y="1500" as="geometry" />
         </mxCell>
         <mxCell id="rV11CxTj-RFXBWxdGiG--8" parent="rV11CxTj-RFXBWxdGiG--7" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;3.3 Develop flexible geothermal power plant modeling&lt;/font&gt;" vertex="1">
-          <mxGeometry height="90" width="140" y="1.55" as="geometry" />
+          <mxGeometry height="90" width="140" x="-14" y="1.55" as="geometry" />
         </mxCell>
         <mxCell id="rV11CxTj-RFXBWxdGiG--13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;" value="3.5 Optimal Dispatch Signals" vertex="1">
           <mxGeometry height="56.55" width="120" x="829.5" y="1520" as="geometry" />
@@ -371,6 +375,9 @@
             <mxPoint x="830" y="1590" as="sourcePoint" />
             <mxPoint x="510" y="1420" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="rV11CxTj-RFXBWxdGiG--16" edge="1" parent="1" source="rV11CxTj-RFXBWxdGiG--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="PGyb04B-bBSyxvnn9_xd-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
