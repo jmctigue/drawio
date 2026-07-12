@@ -213,19 +213,22 @@
         <mxCell id="OVCg9bK_3XRvlq4NcybI-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" value="reValue" vertex="1">
           <mxGeometry height="60" width="120" x="224.25" y="502" as="geometry" />
         </mxCell>
-        <mxCell id="PGyb04B-bBSyxvnn9_xd-6" edge="1" parent="1" source="PGyb04B-bBSyxvnn9_xd-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="PGyb04B-bBSyxvnn9_xd-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="quUTp9OU2Ow-HE_Gdq4_-2" edge="1" parent="1" source="PGyb04B-bBSyxvnn9_xd-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="PGyb04B-bBSyxvnn9_xd-29">
+        <mxCell id="quUTp9OU2Ow-HE_Gdq4_-2" edge="1" parent="1" source="rV11CxTj-RFXBWxdGiG--18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="960" y="1689" />
+              <mxPoint x="589" y="1800" />
+              <mxPoint x="960" y="1800" />
               <mxPoint x="960" y="1357" />
             </Array>
+            <mxPoint x="960" y="1810" as="sourcePoint" />
+            <mxPoint x="860" y="1357" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PGyb04B-bBSyxvnn9_xd-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;" value="ReEDS with viable new geothermal technologies" vertex="1">
-          <mxGeometry height="80" width="169" x="544.37" y="1649" as="geometry" />
+        <mxCell id="rV11CxTj-RFXBWxdGiG--26" edge="1" parent="1" source="PGyb04B-bBSyxvnn9_xd-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rV11CxTj-RFXBWxdGiG--18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PGyb04B-bBSyxvnn9_xd-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;" value="4.2 ReEDS with viable new geothermal technologies (3.3)" vertex="1">
+          <mxGeometry height="80" width="169" x="308" y="1667" as="geometry" />
         </mxCell>
         <mxCell id="PGyb04B-bBSyxvnn9_xd-80" edge="1" parent="1" source="PGyb04B-bBSyxvnn9_xd-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="PGyb04B-bBSyxvnn9_xd-79" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -266,14 +269,11 @@
         <mxCell id="PGyb04B-bBSyxvnn9_xd-44" parent="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://inl.gov/content/uploads/2023/04/75-Anniversary-INL-Lockup_Blue_V2.png;clipPath=inset(0% 33.33% 0% 0%);" value="" vertex="1">
           <mxGeometry height="42.67" width="118.53" x="205.46999999999986" y="1448.33" as="geometry" />
         </mxCell>
-        <mxCell id="PGyb04B-bBSyxvnn9_xd-52" edge="1" parent="1" source="PGyb04B-bBSyxvnn9_xd-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="PGyb04B-bBSyxvnn9_xd-55" value="">
+        <mxCell id="rV11CxTj-RFXBWxdGiG--25" edge="1" parent="1" source="PGyb04B-bBSyxvnn9_xd-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="rV11CxTj-RFXBWxdGiG--23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PGyb04B-bBSyxvnn9_xd-53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;" value="4.1: Identify economically viable technologies and sites" vertex="1">
-          <mxGeometry height="81" width="141.25" x="128.75" y="1669" as="geometry" />
-        </mxCell>
-        <mxCell id="PGyb04B-bBSyxvnn9_xd-54" edge="1" parent="1" source="PGyb04B-bBSyxvnn9_xd-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="PGyb04B-bBSyxvnn9_xd-9">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="PGyb04B-bBSyxvnn9_xd-53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;" value="4.1: Identify economically viable technologies and sites (from 1.6 &amp;amp; 2.2)" vertex="1">
+          <mxGeometry height="90" width="140" x="130" y="1660" as="geometry" />
         </mxCell>
         <mxCell id="PGyb04B-bBSyxvnn9_xd-61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" value="&lt;font&gt;1.5 Define System Value Metrics:&amp;nbsp;Opportunity for Novel Geothermal&lt;/font&gt;" vertex="1">
           <mxGeometry height="75" width="155.75" x="502" y="1125.17" as="geometry" />
@@ -315,9 +315,6 @@
         </mxCell>
         <mxCell id="PGyb04B-bBSyxvnn9_xd-82" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" value="2.3 Update land access, technical exclusions" vertex="1">
           <mxGeometry height="64" width="139.63" x="550.37" y="1325" as="geometry" />
-        </mxCell>
-        <mxCell id="PGyb04B-bBSyxvnn9_xd-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeColor=none;" value="Economically viable technologies and sites" vertex="1">
-          <mxGeometry height="47.04" width="132.4999999999999" x="369.0000000000002" y="1665.48" as="geometry" />
         </mxCell>
         <mxCell id="PGyb04B-bBSyxvnn9_xd-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;" value="3.4 Develop ROM Post-processing" vertex="1">
           <mxGeometry height="90" width="140" x="680" y="1500" as="geometry" />
@@ -377,6 +374,32 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rV11CxTj-RFXBWxdGiG--16" edge="1" parent="1" source="rV11CxTj-RFXBWxdGiG--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="PGyb04B-bBSyxvnn9_xd-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rV11CxTj-RFXBWxdGiG--27" edge="1" parent="1" source="rV11CxTj-RFXBWxdGiG--18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.001;entryY=0.517;entryDx=0;entryDy=0;entryPerimeter=0;" target="rV11CxTj-RFXBWxdGiG--23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="1706.3333333333335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rV11CxTj-RFXBWxdGiG--18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;" value="4.3 Value &amp;amp; Profitability of 4.2 technologies" vertex="1">
+          <mxGeometry height="80" width="169" x="504.29" y="1667" as="geometry" />
+        </mxCell>
+        <mxCell id="rV11CxTj-RFXBWxdGiG--20" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="272" y="1710" as="sourcePoint" />
+            <mxPoint x="302" y="1709" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rV11CxTj-RFXBWxdGiG--22" edge="1" parent="1" source="PGyb04B-bBSyxvnn9_xd-7" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="PGyb04B-bBSyxvnn9_xd-9" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="830" y="1590" as="sourcePoint" />
+            <mxPoint x="880" y="1540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rV11CxTj-RFXBWxdGiG--23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;" value="4.4 Compare Dispatch of EGS: 3.3 &amp;amp; 4.1" vertex="1">
+          <mxGeometry height="80" width="169" x="699.75" y="1665" as="geometry" />
+        </mxCell>
+        <mxCell id="rV11CxTj-RFXBWxdGiG--24" edge="1" parent="1" source="rV11CxTj-RFXBWxdGiG--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="rV11CxTj-RFXBWxdGiG--23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
