@@ -8,7 +8,7 @@
           <mxGeometry height="160" width="157.57" x="840" y="200" as="geometry" />
         </mxCell>
         <mxCell id="_0b22JqU0g5BowjJun_N-7" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="120" width="100" x="110" y="170" as="geometry" />
+          <mxGeometry height="120" width="100" x="320" y="170" as="geometry" />
         </mxCell>
         <mxCell id="_0b22JqU0g5BowjJun_N-5" parent="_0b22JqU0g5BowjJun_N-7" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.misc.cooling_tower_(wet-dry,_natural_draught);strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="120" width="100" as="geometry" />
@@ -32,8 +32,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="540" y="450" />
-              <mxPoint x="70" y="450" />
-              <mxPoint x="70" y="280.4" />
+              <mxPoint x="240" y="450" />
+              <mxPoint x="240" y="280.4" />
             </Array>
           </mxGeometry>
         </mxCell>
