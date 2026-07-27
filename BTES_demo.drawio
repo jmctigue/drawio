@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="qa6QpQMLSXYXYWky7VD7">
-    <mxGraphModel dx="775" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="2500" math="0" shadow="0">
+    <mxGraphModel dx="649" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="2500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -182,13 +182,12 @@
           <mxGeometry height="115" width="155" x="280" y="895" as="geometry" />
         </mxCell>
         <mxCell id="_0b22JqU0g5BowjJun_N-44" parent="1" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.misc.cooling_tower_(dry,_natural_draught);strokeWidth=2;" value="" vertex="1">
-          <mxGeometry height="51" width="60" x="325.5" y="780" as="geometry" />
+          <mxGeometry height="51" width="60" x="325.5" y="812" as="geometry" />
         </mxCell>
         <mxCell id="_0b22JqU0g5BowjJun_N-45" edge="1" parent="1" source="_0b22JqU0g5BowjJun_N-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.885;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.92;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#7EA6E0;strokeWidth=5;" target="_0b22JqU0g5BowjJun_N-44">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="297.79" y="827" />
-              <mxPoint x="316.28999999999996" y="827" />
+              <mxPoint x="297.81" y="858.95" />
             </Array>
             <mxPoint x="820" y="822" as="sourcePoint" />
             <mxPoint x="600" y="687" as="targetPoint" />
@@ -197,7 +196,8 @@
         <mxCell id="_0b22JqU0g5BowjJun_N-46" edge="1" parent="1" source="_0b22JqU0g5BowjJun_N-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.92;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#7EA6E0;strokeWidth=5;" target="_0b22JqU0g5BowjJun_N-41">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="410" y="826.9" />
+              <mxPoint x="385.49" y="860.03" />
+              <mxPoint x="410.03" y="860.03" />
             </Array>
             <mxPoint x="440" y="867" as="sourcePoint" />
             <mxPoint x="410" y="887" as="targetPoint" />
