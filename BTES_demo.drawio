@@ -1,9 +1,56 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="qa6QpQMLSXYXYWky7VD7">
-    <mxGraphModel>
+    <mxGraphModel dx="1201" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_0b22JqU0g5BowjJun_N-4" parent="1" style="sketch=0;verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;fillColor=#000000;align=center;outlineConnect=0;pointerEvents=1;shape=mxgraph.citrix2.data_center;" value="" vertex="1">
+          <mxGeometry height="160" width="157.57" x="840" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="_0b22JqU0g5BowjJun_N-7" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="120" width="100" x="110" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="_0b22JqU0g5BowjJun_N-5" parent="_0b22JqU0g5BowjJun_N-7" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.misc.cooling_tower_(wet-dry,_natural_draught);strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="120" width="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_0b22JqU0g5BowjJun_N-6" parent="_0b22JqU0g5BowjJun_N-7" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.misc.fan;rotation=-90;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="30" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_0b22JqU0g5BowjJun_N-10" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="30" width="130" x="490" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="_0b22JqU0g5BowjJun_N-8" parent="_0b22JqU0g5BowjJun_N-10" style="shape=mxgraph.pid.heat_exchangers.heat_exchanger_(finned_tubes);html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;rotation=90;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="30" width="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_0b22JqU0g5BowjJun_N-9" parent="_0b22JqU0g5BowjJun_N-10" style="shape=mxgraph.pid.heat_exchangers.heat_exchanger_(finned_tubes);html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;rotation=90;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="30" width="100" x="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_0b22JqU0g5BowjJun_N-11" edge="1" parent="1" source="_0b22JqU0g5BowjJun_N-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.92;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#7EA6E0;strokeWidth=5;" target="_0b22JqU0g5BowjJun_N-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_0b22JqU0g5BowjJun_N-12" edge="1" parent="1" source="_0b22JqU0g5BowjJun_N-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.92;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#7EA6E0;strokeWidth=5;" target="_0b22JqU0g5BowjJun_N-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="450" />
+              <mxPoint x="70" y="450" />
+              <mxPoint x="70" y="280.4" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_0b22JqU0g5BowjJun_N-13" edge="1" parent="1" source="_0b22JqU0g5BowjJun_N-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#95C1C3;strokeWidth=5;" target="_0b22JqU0g5BowjJun_N-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_0b22JqU0g5BowjJun_N-14" edge="1" parent="1" source="_0b22JqU0g5BowjJun_N-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#95C1C3;strokeWidth=5;" target="_0b22JqU0g5BowjJun_N-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1080" y="280" />
+              <mxPoint x="1080" y="450" />
+              <mxPoint x="570" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
