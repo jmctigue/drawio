@@ -178,6 +178,12 @@
             <mxPoint x="942.08" y="1032.54" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_0b22JqU0g5BowjJun_N-41" parent="1" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.misc.chiller;flipH=1;legacyAnchorPoints=0;" value="" vertex="1">
+          <mxGeometry height="115" width="155" x="100" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="_0b22JqU0g5BowjJun_N-44" parent="1" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.misc.cooling_tower_(dry,_natural_draught);" value="" vertex="1">
+          <mxGeometry height="120" width="100" x="127.5" y="742" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
