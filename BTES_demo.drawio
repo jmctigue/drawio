@@ -1,14 +1,14 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="qa6QpQMLSXYXYWky7VD7">
-    <mxGraphModel dx="649" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="2500" math="0" shadow="0">
+    <mxGraphModel dx="2184" dy="1424" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="2500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_0b22JqU0g5BowjJun_N-4" parent="1" style="sketch=0;verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;fillColor=#000000;align=center;outlineConnect=0;pointerEvents=1;shape=mxgraph.citrix2.data_center;" value="" vertex="1">
-          <mxGeometry height="160" width="157.57" x="785" y="70" as="geometry" />
+          <mxGeometry height="160" width="157.57" x="785" y="79" as="geometry" />
         </mxCell>
         <mxCell id="_0b22JqU0g5BowjJun_N-7" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="120" width="100" x="265" y="40" as="geometry" />
+          <mxGeometry height="120" width="100" x="265" y="49" as="geometry" />
         </mxCell>
         <mxCell id="_0b22JqU0g5BowjJun_N-5" parent="_0b22JqU0g5BowjJun_N-7" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.misc.cooling_tower_(wet-dry,_natural_draught);strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="120" width="100" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry height="40" width="40" x="30" y="60" as="geometry" />
         </mxCell>
         <mxCell id="_0b22JqU0g5BowjJun_N-10" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="30" width="130" x="435" y="220" as="geometry" />
+          <mxGeometry height="30" width="130" x="435" y="229" as="geometry" />
         </mxCell>
         <mxCell id="_0b22JqU0g5BowjJun_N-8" parent="_0b22JqU0g5BowjJun_N-10" style="shape=mxgraph.pid.heat_exchangers.heat_exchanger_(finned_tubes);html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;rotation=90;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="30" width="100" as="geometry" />
@@ -31,23 +31,23 @@
         <mxCell id="_0b22JqU0g5BowjJun_N-12" edge="1" parent="1" source="_0b22JqU0g5BowjJun_N-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.92;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#7EA6E0;strokeWidth=5;" target="_0b22JqU0g5BowjJun_N-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="485" y="320" />
-              <mxPoint x="185" y="320" />
-              <mxPoint x="185" y="150.39999999999998" />
+              <mxPoint x="485" y="329" />
+              <mxPoint x="185" y="329" />
+              <mxPoint x="185" y="159.39999999999998" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_0b22JqU0g5BowjJun_N-13" edge="1" parent="1" source="_0b22JqU0g5BowjJun_N-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#95C1C3;strokeWidth=5;" target="_0b22JqU0g5BowjJun_N-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="695" y="130" as="targetPoint" />
+            <mxPoint x="695" y="139" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_0b22JqU0g5BowjJun_N-14" edge="1" parent="1" source="_0b22JqU0g5BowjJun_N-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#95C1C3;strokeWidth=5;" target="_0b22JqU0g5BowjJun_N-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1025" y="150" />
-              <mxPoint x="1025" y="320" />
-              <mxPoint x="515" y="320" />
+              <mxPoint x="1025" y="159" />
+              <mxPoint x="1025" y="329" />
+              <mxPoint x="515" y="329" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -211,6 +211,33 @@
             <mxPoint x="470" y="1102" as="sourcePoint" />
             <mxPoint x="665" y="940" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_0b22JqU0g5BowjJun_N-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=32;" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b style=&quot;&quot;&gt;HPC&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="833.78" y="29" as="geometry" />
+        </mxCell>
+        <mxCell id="_0b22JqU0g5BowjJun_N-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=32;" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Cooling tower&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="205" x="220" y="9" as="geometry" />
+        </mxCell>
+        <mxCell id="_0b22JqU0g5BowjJun_N-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=32;" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Heat exchanger&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="180" x="525" y="204" as="geometry" />
+        </mxCell>
+        <mxCell id="_0b22JqU0g5BowjJun_N-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=32;" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b style=&quot;&quot;&gt;HPC&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="823.78" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="_0b22JqU0g5BowjJun_N-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=32;" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Cooling tower&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="205" x="210" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="_0b22JqU0g5BowjJun_N-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=32;" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Heat exchanger&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="180" x="512" y="578" as="geometry" />
+        </mxCell>
+        <mxCell id="_0b22JqU0g5BowjJun_N-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=32;" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Borehole field&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="215" x="587.5" y="1380" as="geometry" />
+        </mxCell>
+        <mxCell id="_0b22JqU0g5BowjJun_N-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=27;" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;Isolating heat exchanger&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 19px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Separate fluid streams. Add in series with existing cooling system to provide redundancy.&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="314" x="525" y="788" as="geometry" />
+        </mxCell>
+        <mxCell id="_0b22JqU0g5BowjJun_N-57" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=27;" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;Mechanical chiller&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 19px; line-height: 50%;&quot;&gt;For charging BTES. Also provides supplementary cooling/redundancy.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="314" x="200.5" y="980" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
