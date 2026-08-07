@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="weHcKqMYfvgHIBIdrH5w">
-    <mxGraphModel dx="1445" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="1167" dy="973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -316,7 +316,7 @@
         <mxCell id="PGyb04B-bBSyxvnn9_xd-82" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" value="2.3 Update land access, technical exclusions" vertex="1">
           <mxGeometry height="64" width="139.63" x="550.37" y="1325" as="geometry" />
         </mxCell>
-        <mxCell id="PGyb04B-bBSyxvnn9_xd-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;" value="3.4 Develop ROM Post-processing" vertex="1">
+        <mxCell id="PGyb04B-bBSyxvnn9_xd-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;" value="3.5 Develop ROM Post-processing" vertex="1">
           <mxGeometry height="90" width="140" x="680" y="1500" as="geometry" />
         </mxCell>
         <mxCell id="PGyb04B-bBSyxvnn9_xd-107" edge="1" parent="1" source="PGyb04B-bBSyxvnn9_xd-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="PGyb04B-bBSyxvnn9_xd-39" value="">
@@ -358,10 +358,10 @@
         <mxCell id="rV11CxTj-RFXBWxdGiG--7" connectable="0" parent="1" style="group;verticalAlign=middle;" value="" vertex="1">
           <mxGeometry height="91.55" width="169.75" x="520" y="1500" as="geometry" />
         </mxCell>
-        <mxCell id="rV11CxTj-RFXBWxdGiG--8" parent="rV11CxTj-RFXBWxdGiG--7" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;3.3 Develop flexible geothermal power plant modeling&lt;/font&gt;" vertex="1">
+        <mxCell id="rV11CxTj-RFXBWxdGiG--8" parent="rV11CxTj-RFXBWxdGiG--7" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;3.3/3.4 Develop co-located hybrid geothermal plant modelling&lt;/font&gt;" vertex="1">
           <mxGeometry height="90" width="140" x="-14" y="1.55" as="geometry" />
         </mxCell>
-        <mxCell id="rV11CxTj-RFXBWxdGiG--13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;" value="3.5 Optimal Dispatch Signals" vertex="1">
+        <mxCell id="rV11CxTj-RFXBWxdGiG--13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;" value="3.6 Optimal Dispatch Signals" vertex="1">
           <mxGeometry height="56.55" width="120" x="829.5" y="1520" as="geometry" />
         </mxCell>
         <mxCell id="rV11CxTj-RFXBWxdGiG--14" edge="1" parent="1" source="PGyb04B-bBSyxvnn9_xd-7" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=1;" value="">
