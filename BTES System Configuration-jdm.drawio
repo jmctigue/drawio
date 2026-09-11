@@ -6883,6 +6883,13 @@
         <mxCell id="iDsgc56PY35EjFwuTLLW-202" parent="1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontColor=#FF0C4D;fontSize=29;fontStyle=1" value="&lt;span style=&quot;line-height: 115%; font-family: Aptos, sans-serif;&quot;&gt;&lt;font&gt;85&lt;span&gt;°F&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="37.5" width="78.77" x="12460" y="21330" as="geometry" />
         </mxCell>
+        <mxCell id="CdCLJWorLzquncTJqKJL-2" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#000000;strokeWidth=4;curved=0;flowAnimation=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <Array as="points" />
+            <mxPoint x="12036.27" y="16820" as="sourcePoint" />
+            <mxPoint x="12150" y="16890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CdCLJWorLzquncTJqKJL-1" parent="1" style="whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFE599;" value="&lt;span style=&quot;font-size: 39px;&quot;&gt;&lt;b&gt;Co-Location of all systems into ESIF&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="150" width="320" x="11816.1" y="16690" as="geometry" />
         </mxCell>
