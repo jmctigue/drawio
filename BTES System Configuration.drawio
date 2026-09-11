@@ -5100,7 +5100,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GX3diWU0dWhL_zZ39Rta" name="Page-5">
-    <mxGraphModel dx="-3598" dy="-13434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="2500" math="0" shadow="0">
+    <mxGraphModel dx="-4956" dy="-14319" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="2500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5495,12 +5495,6 @@
         <mxCell id="93L0-FBr-cUTdHImQ_fW-75" parent="1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontColor=#FF0C4D;fontSize=29;fontStyle=1" value="&lt;span style=&quot;line-height: 115%; font-family: Aptos, sans-serif;&quot;&gt;&lt;font&gt;29-35&lt;span&gt;°&lt;/span&gt;C&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="115" width="290" x="8050" y="17345.18" as="geometry" />
         </mxCell>
-        <mxCell id="93L0-FBr-cUTdHImQ_fW-76" parent="1" style="shape=mxgraph.pid.heat_exchangers.heat_exchanger_(finned_tubes);html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;rotation=-90;strokeWidth=2;" value="" vertex="1">
-          <mxGeometry height="17.5" width="78.75" x="7641.875" y="17730.825" as="geometry" />
-        </mxCell>
-        <mxCell id="93L0-FBr-cUTdHImQ_fW-77" parent="1" style="shape=mxgraph.pid.heat_exchangers.heat_exchanger_(finned_tubes);html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;rotation=-90;strokeWidth=2;" value="" vertex="1">
-          <mxGeometry height="17.5" width="78.77" x="7624.365" y="17730.835000000003" as="geometry" />
-        </mxCell>
         <mxCell id="93L0-FBr-cUTdHImQ_fW-78" parent="1" style="shape=mxgraph.pid.heat_exchangers.heat_exchanger_(finned_tubes);html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;rotation=-180;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="17.5" width="78.75" x="7641.885" y="17339.675" as="geometry" />
         </mxCell>
@@ -5536,7 +5530,8 @@
             <Array as="points">
               <mxPoint x="7940" y="17600" />
               <mxPoint x="7840" y="17500" />
-              <mxPoint x="7750" y="17430" />
+              <mxPoint x="7760" y="17430" />
+              <mxPoint x="7780" y="17380" />
               <mxPoint x="7750" y="17351.38" />
             </Array>
             <mxPoint x="7629.829999999996" y="17650" as="sourcePoint" />
@@ -5579,6 +5574,36 @@
         </mxCell>
         <mxCell id="93L0-FBr-cUTdHImQ_fW-89" parent="1" style="whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#E6E6E6;" value="&lt;div&gt;&lt;span style=&quot;font-size: 39px;&quot;&gt;&lt;b&gt;HPC&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 39px;&quot;&gt;&lt;b&gt;(ESIF 3rd floor)&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="115" width="320" x="6785" y="18032.59" as="geometry" />
+        </mxCell>
+        <mxCell id="93L0-FBr-cUTdHImQ_fW-90" connectable="0" parent="1" style="group;rotation=333;" value="" vertex="1">
+          <mxGeometry height="17.5099999999984" width="96.75" x="7525.625" y="17759.405000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="93L0-FBr-cUTdHImQ_fW-76" parent="93L0-FBr-cUTdHImQ_fW-90" style="shape=mxgraph.pid.heat_exchangers.heat_exchanger_(finned_tubes);html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;rotation=243;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="17.5" width="78.75" x="1" y="4" as="geometry" />
+        </mxCell>
+        <mxCell id="93L0-FBr-cUTdHImQ_fW-77" parent="93L0-FBr-cUTdHImQ_fW-90" style="shape=mxgraph.pid.heat_exchangers.heat_exchanger_(finned_tubes);html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;rotation=243;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="17.5" width="78.77" x="17" y="-4" as="geometry" />
+        </mxCell>
+        <mxCell id="93L0-FBr-cUTdHImQ_fW-91" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#FF0C4D;strokeWidth=8;curved=0;flowAnimation=0;fontColor=#FF0C4D;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="93L0-FBr-cUTdHImQ_fW-76" value="">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <Array as="points">
+              <mxPoint x="7443" y="17915" />
+              <mxPoint x="7590" y="17850" />
+            </Array>
+            <mxPoint x="7363" y="17884" as="sourcePoint" />
+            <mxPoint x="7712" y="17814" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="93L0-FBr-cUTdHImQ_fW-92" edge="1" parent="1" source="93L0-FBr-cUTdHImQ_fW-76" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#3399FF;strokeWidth=8;curved=0;flowAnimation=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <Array as="points">
+              <mxPoint x="7540" y="17720" />
+              <mxPoint x="7480" y="17670" />
+              <mxPoint x="7390" y="17690" />
+            </Array>
+            <mxPoint x="7678" y="17670" as="sourcePoint" />
+            <mxPoint x="7320" y="17780" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
