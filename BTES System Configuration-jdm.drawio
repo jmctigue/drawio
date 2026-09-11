@@ -5100,7 +5100,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GX3diWU0dWhL_zZ39Rta" name="Page-5">
-    <mxGraphModel dx="-2569" dy="-12763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="2500" math="0" shadow="0">
+    <mxGraphModel dx="-2997" dy="-13042" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="2500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5672,6 +5672,19 @@
             <Array as="points" />
             <mxPoint x="7304.38" y="17273" as="sourcePoint" />
             <mxPoint x="7641.38" y="17381" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ow7YTrgm9gNf1Fs40RQO-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=none;strokeWidth=5;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="7810" y="17110" as="geometry" />
+        </mxCell>
+        <mxCell id="ow7YTrgm9gNf1Fs40RQO-15" parent="1" style="whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#E6E6E6;" value="&lt;span style=&quot;font-size: 39px;&quot;&gt;&lt;b&gt;GeoTEN connects to research loops (and TOP TEN)&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="150" width="360" x="7407.61" y="16805" as="geometry" />
+        </mxCell>
+        <mxCell id="ow7YTrgm9gNf1Fs40RQO-16" edge="1" parent="1" source="ow7YTrgm9gNf1Fs40RQO-15" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#000000;strokeWidth=4;curved=0;flowAnimation=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="ow7YTrgm9gNf1Fs40RQO-14" value="">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <Array as="points" />
+            <mxPoint x="8710" y="17020" as="sourcePoint" />
+            <mxPoint x="8220" y="17270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
