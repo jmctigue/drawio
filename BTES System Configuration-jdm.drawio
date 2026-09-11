@@ -5694,7 +5694,7 @@
           <mxGeometry height="64" width="129.39" x="7610.599999999999" y="17533.89" as="geometry" />
         </mxCell>
         <mxCell id="ow7YTrgm9gNf1Fs40RQO-23" parent="1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontColor=#FF0C4D;fontSize=29;fontStyle=1" value="&lt;font face=&quot;Aptos, sans-serif&quot; style=&quot;font-size: 32px;&quot;&gt;70 F&lt;/font&gt;" vertex="1">
-          <mxGeometry height="64" width="129.39" x="7568.61" y="17170" as="geometry" />
+          <mxGeometry height="64" width="129.39" x="7625.36" y="17212" as="geometry" />
         </mxCell>
         <mxCell id="ow7YTrgm9gNf1Fs40RQO-24" parent="1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontColor=#FF0C4D;fontSize=29;fontStyle=1" value="&lt;font face=&quot;Aptos, sans-serif&quot; style=&quot;font-size: 32px;&quot;&gt;93 F&lt;/font&gt;" vertex="1">
           <mxGeometry height="64" width="129.39" x="7950" y="17690" as="geometry" />
@@ -5769,7 +5769,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ow7YTrgm9gNf1Fs40RQO-40" parent="1" style="whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#E6E6E6;" value="&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 39px;&quot;&gt;&lt;b&gt;Hot and cold research loops&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="115" width="310.99" x="6489.01" y="16845" as="geometry" />
+          <mxGeometry height="115" width="310.99" x="6480" y="16737.18" as="geometry" />
         </mxCell>
         <mxCell id="ow7YTrgm9gNf1Fs40RQO-41" edge="1" parent="1" source="ow7YTrgm9gNf1Fs40RQO-40" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#000000;strokeWidth=4;curved=0;flowAnimation=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
           <mxGeometry relative="1" width="80" as="geometry">
@@ -5803,6 +5803,12 @@
             <mxPoint x="7230" y="17210" as="sourcePoint" />
             <mxPoint x="7509" y="17180" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ow7YTrgm9gNf1Fs40RQO-47" parent="1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontColor=#FF0C4D;fontSize=29;fontStyle=1" value="&lt;font face=&quot;Aptos, sans-serif&quot;&gt;Hot loop: 160-230 F&lt;/font&gt;" vertex="1">
+          <mxGeometry height="37.5" width="290" x="6790.99" y="16830" as="geometry" />
+        </mxCell>
+        <mxCell id="ow7YTrgm9gNf1Fs40RQO-49" parent="1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontColor=#0000FF;fontSize=29;fontStyle=1" value="&lt;font face=&quot;Aptos, sans-serif&quot;&gt;Cold loop: 32-50 F&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="300" x="6780" y="16852.18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
