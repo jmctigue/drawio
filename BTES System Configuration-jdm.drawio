@@ -5541,9 +5541,6 @@
             <mxPoint x="7871.010137500325" y="17694.15989094475" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="93L0-FBr-cUTdHImQ_fW-84" parent="1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontColor=#0000FF;fontSize=29;fontStyle=1" value="&lt;span style=&quot;line-height: 115%; font-family: Aptos, sans-serif;&quot;&gt;&lt;font&gt;18&lt;span&gt;°&lt;/span&gt;C&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="51.77" width="78.77" x="7493" y="17540" as="geometry" />
-        </mxCell>
         <mxCell id="93L0-FBr-cUTdHImQ_fW-85" parent="1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontColor=#FF0C4D;fontSize=29;fontStyle=1" value="&lt;font face=&quot;Aptos, sans-serif&quot; style=&quot;font-size: 32px;&quot;&gt;95 F&lt;/font&gt;" vertex="1">
           <mxGeometry height="64" width="129.39" x="7653.55" y="17736.68" as="geometry" />
         </mxCell>
@@ -5704,6 +5701,9 @@
         </mxCell>
         <mxCell id="ow7YTrgm9gNf1Fs40RQO-22" parent="1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontColor=#007FFF;fontSize=29;fontStyle=1" value="&lt;font face=&quot;Aptos, sans-serif&quot; style=&quot;font-size: 32px;&quot;&gt;60 F&lt;/font&gt;" vertex="1">
           <mxGeometry height="64" width="129.39" x="7610.599999999999" y="17533.89" as="geometry" />
+        </mxCell>
+        <mxCell id="ow7YTrgm9gNf1Fs40RQO-23" parent="1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontColor=#FF0C4D;fontSize=29;fontStyle=1" value="&lt;font face=&quot;Aptos, sans-serif&quot; style=&quot;font-size: 32px;&quot;&gt;70 F&lt;/font&gt;" vertex="1">
+          <mxGeometry height="64" width="129.39" x="7812" y="17445.59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
