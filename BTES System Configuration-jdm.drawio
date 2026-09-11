@@ -5627,8 +5627,8 @@
             <mxPoint x="7430" y="17770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ow7YTrgm9gNf1Fs40RQO-3" parent="1" style="whiteSpace=wrap;html=1;strokeColor=#10739e;fillColor=#b1ddf0;" value="&lt;span style=&quot;font-size: 39px;&quot;&gt;&lt;b&gt;New HX for AFFECT&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="100" width="320" x="7504.99" y="17990" as="geometry" />
+        <mxCell id="ow7YTrgm9gNf1Fs40RQO-3" parent="1" style="whiteSpace=wrap;html=1;strokeColor=#10739e;fillColor=#b1ddf0;" value="&lt;span style=&quot;font-size: 39px;&quot;&gt;&lt;b&gt;New HX for AFFECT (3 MW-th)&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="100" width="370" x="7454.99" y="17990" as="geometry" />
         </mxCell>
         <mxCell id="ow7YTrgm9gNf1Fs40RQO-4" edge="1" parent="1" source="ow7YTrgm9gNf1Fs40RQO-3" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#000000;strokeWidth=4;curved=0;flowAnimation=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" value="">
           <mxGeometry relative="1" width="80" as="geometry">
