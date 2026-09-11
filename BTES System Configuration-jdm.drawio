@@ -5100,7 +5100,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GX3diWU0dWhL_zZ39Rta" name="Page-5">
-    <mxGraphModel dx="-4499" dy="-14021" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="2500" math="0" shadow="0">
+    <mxGraphModel dx="-1997" dy="-12390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="2500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5485,12 +5485,6 @@
         <mxCell id="93L0-FBr-cUTdHImQ_fW-73" parent="1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontColor=#FF0C4D;fontSize=29;fontStyle=1" value="&lt;span style=&quot;line-height: 115%; font-family: Aptos, sans-serif;&quot;&gt;&lt;font&gt;15-40&lt;span&gt;°&lt;/span&gt;C&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="115" width="290" x="7400" y="17050" as="geometry" />
         </mxCell>
-        <mxCell id="93L0-FBr-cUTdHImQ_fW-74" parent="1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontColor=#0000FF;fontSize=29;fontStyle=1" value="&lt;span style=&quot;line-height: 115%; font-family: Aptos, sans-serif;&quot;&gt;&lt;font&gt;2-15&lt;span&gt;°&lt;/span&gt;C&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="115" width="280" x="8210.05" y="17322.18" as="geometry" />
-        </mxCell>
-        <mxCell id="93L0-FBr-cUTdHImQ_fW-75" parent="1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontColor=#FF0C4D;fontSize=29;fontStyle=1" value="&lt;span style=&quot;line-height: 115%; font-family: Aptos, sans-serif;&quot;&gt;&lt;font&gt;29-35&lt;span&gt;°&lt;/span&gt;C&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="115" width="290" x="8050" y="17345.18" as="geometry" />
-        </mxCell>
         <mxCell id="93L0-FBr-cUTdHImQ_fW-78" parent="1" style="shape=mxgraph.pid.heat_exchangers.heat_exchanger_(finned_tubes);html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;rotation=233;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="17.5" width="78.75" x="7625.615" y="17299.925" as="geometry" />
         </mxCell>
@@ -5624,8 +5618,8 @@
             <mxPoint x="7430" y="17770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ow7YTrgm9gNf1Fs40RQO-3" parent="1" style="whiteSpace=wrap;html=1;strokeColor=#10739e;fillColor=#b1ddf0;" value="&lt;span style=&quot;font-size: 39px;&quot;&gt;&lt;b&gt;New HX for AFFECT (3 MW-th)&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="100" width="370" x="7454.99" y="17990" as="geometry" />
+        <mxCell id="ow7YTrgm9gNf1Fs40RQO-3" parent="1" style="whiteSpace=wrap;html=1;strokeColor=#10739e;fillColor=#b1ddf0;" value="&lt;span style=&quot;font-size: 39px;&quot;&gt;&lt;b&gt;New HX for AFFECT&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 39px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;AFFECT: 3 MW-th with 71 F cold inlet&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 39px;&quot;&gt;BTES: 5 MW-th with 60 F cold inlet&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="195" width="695.01" x="7396.05" y="18047.59" as="geometry" />
         </mxCell>
         <mxCell id="ow7YTrgm9gNf1Fs40RQO-4" edge="1" parent="1" source="ow7YTrgm9gNf1Fs40RQO-3" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#000000;strokeWidth=4;curved=0;flowAnimation=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" value="">
           <mxGeometry relative="1" width="80" as="geometry">
@@ -5693,8 +5687,8 @@
         <mxCell id="ow7YTrgm9gNf1Fs40RQO-19" parent="1" style="whiteSpace=wrap;html=1;strokeColor=#b46504;fillColor=#fad7ac;" value="&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 39px;&quot;&gt;&lt;b&gt;Integration points&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="460" x="6390" y="16210" as="geometry" />
         </mxCell>
-        <mxCell id="ow7YTrgm9gNf1Fs40RQO-20" parent="1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontColor=#FF0C4D;fontSize=29;fontStyle=1" value="&lt;font face=&quot;Aptos, sans-serif&quot; style=&quot;font-size: 32px;&quot;&gt;73 F&lt;/font&gt;" vertex="1">
-          <mxGeometry height="64" width="129.39" x="7770" y="17630.5" as="geometry" />
+        <mxCell id="ow7YTrgm9gNf1Fs40RQO-20" parent="1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontColor=#FF0C4D;fontSize=29;fontStyle=1" value="&lt;font face=&quot;Aptos, sans-serif&quot; style=&quot;font-size: 32px;&quot;&gt;65-73 F&lt;/font&gt;" vertex="1">
+          <mxGeometry height="64" width="129.39" x="7752.75" y="17642" as="geometry" />
         </mxCell>
         <mxCell id="ow7YTrgm9gNf1Fs40RQO-21" parent="1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontColor=#007FFF;fontSize=29;fontStyle=1" value="&lt;font face=&quot;Aptos, sans-serif&quot; style=&quot;font-size: 32px;&quot;&gt;65 F&lt;/font&gt;" vertex="1">
           <mxGeometry height="64" width="129.39" x="7600.29" y="17685" as="geometry" />
@@ -5703,7 +5697,19 @@
           <mxGeometry height="64" width="129.39" x="7610.599999999999" y="17533.89" as="geometry" />
         </mxCell>
         <mxCell id="ow7YTrgm9gNf1Fs40RQO-23" parent="1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontColor=#FF0C4D;fontSize=29;fontStyle=1" value="&lt;font face=&quot;Aptos, sans-serif&quot; style=&quot;font-size: 32px;&quot;&gt;70 F&lt;/font&gt;" vertex="1">
-          <mxGeometry height="64" width="129.39" x="7812" y="17445.59" as="geometry" />
+          <mxGeometry height="64" width="129.39" x="7625.36" y="17210" as="geometry" />
+        </mxCell>
+        <mxCell id="ow7YTrgm9gNf1Fs40RQO-24" parent="1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontColor=#FF0C4D;fontSize=29;fontStyle=1" value="&lt;font face=&quot;Aptos, sans-serif&quot; style=&quot;font-size: 32px;&quot;&gt;93 F&lt;/font&gt;" vertex="1">
+          <mxGeometry height="64" width="129.39" x="7950" y="17690" as="geometry" />
+        </mxCell>
+        <mxCell id="ow7YTrgm9gNf1Fs40RQO-25" parent="1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontColor=#007FFF;fontSize=29;fontStyle=1;rotation=-30;" value="&lt;font face=&quot;Aptos, sans-serif&quot; style=&quot;font-size: 32px;&quot;&gt;60- 71 F&lt;/font&gt;" vertex="1">
+          <mxGeometry height="64" width="129.39" x="7817.61" y="17508" as="geometry" />
+        </mxCell>
+        <mxCell id="ow7YTrgm9gNf1Fs40RQO-26" parent="1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontColor=#007FFF;fontSize=29;fontStyle=1;rotation=0;" value="&lt;font face=&quot;Aptos, sans-serif&quot; style=&quot;font-size: 32px;&quot;&gt;60- 71 F&lt;/font&gt;" vertex="1">
+          <mxGeometry height="64" width="129.39" x="8414.532513497834" y="17445.5903129211" as="geometry" />
+        </mxCell>
+        <mxCell id="ow7YTrgm9gNf1Fs40RQO-27" parent="1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontColor=#FF0C4D;fontSize=29;fontStyle=1" value="&lt;font face=&quot;Aptos, sans-serif&quot; style=&quot;font-size: 32px;&quot;&gt;93 F&lt;/font&gt;" vertex="1">
+          <mxGeometry height="64" width="129.39" x="8365.78" y="17685" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
