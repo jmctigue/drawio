@@ -49,6 +49,12 @@
             <mxPoint x="450" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="wv3WHDeKKetpDVu-H1sv-15" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/font-awesome/1/Solar_Panel.svg;strokeWidth=0;" value="" vertex="1">
+          <mxGeometry height="170" width="191.25" x="810" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wv3WHDeKKetpDVu-H1sv-17" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Iconoir_Vol_1-2338/battery-charging-652.svg;rotation=-90;strokeWidth=34;imageBorder=none;" value="" vertex="1">
+          <mxGeometry height="191.25" width="191.25" x="1050" y="9.379999999999999" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
