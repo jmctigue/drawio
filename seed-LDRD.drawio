@@ -196,6 +196,15 @@
             <mxPoint x="1112.0000000000002" y="1480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="wv3WHDeKKetpDVu-H1sv-78" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Power&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="244" x="885" y="253" as="geometry" />
+        </mxCell>
+        <mxCell id="wv3WHDeKKetpDVu-H1sv-79" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Power&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="244" x="883" y="1093" as="geometry" />
+        </mxCell>
+        <mxCell id="wv3WHDeKKetpDVu-H1sv-80" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Heat&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="244" x="940" y="1490" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
