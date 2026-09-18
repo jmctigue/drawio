@@ -27,8 +27,8 @@
         </mxCell>
         <mxCell id="wv3WHDeKKetpDVu-H1sv-8" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=6;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="90" y="474" as="sourcePoint" />
-            <mxPoint x="650" y="474" as="targetPoint" />
+            <mxPoint x="70" y="480" as="sourcePoint" />
+            <mxPoint x="880" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wv3WHDeKKetpDVu-H1sv-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#EA6B66;strokeColor=none;shadow=0;glass=0;gradientColor=#F19C99;gradientDirection=north;" value="" vertex="1">
@@ -103,12 +103,6 @@
         <mxCell id="wv3WHDeKKetpDVu-H1sv-54" parent="1" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.misc.cooling_tower;strokeWidth=4;" value="" vertex="1">
           <mxGeometry height="120" width="100" x="468" y="1186" as="geometry" />
         </mxCell>
-        <mxCell id="wv3WHDeKKetpDVu-H1sv-55" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=6;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="88" y="1314" as="sourcePoint" />
-            <mxPoint x="648" y="1314" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="wv3WHDeKKetpDVu-H1sv-56" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#EA6B66;strokeColor=none;shadow=0;glass=0;gradientColor=#F19C99;gradientDirection=north;" value="" vertex="1">
           <mxGeometry height="100" width="200" x="110" y="1510" as="geometry" />
         </mxCell>
@@ -154,20 +148,53 @@
         <mxCell id="wv3WHDeKKetpDVu-H1sv-68" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/temaki/1/Power_Tower.svg" value="" vertex="1">
           <mxGeometry height="214" width="214" x="898" y="1139" as="geometry" />
         </mxCell>
-        <mxCell id="wv3WHDeKKetpDVu-H1sv-69" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.005;entryY=0.527;entryDx=0;entryDy=0;entryPerimeter=0;endWidth=33;endSize=20;width=26;strokeWidth=2;fillColor=#fad7ac;strokeColor=#b46504;" target="wv3WHDeKKetpDVu-H1sv-68" value="">
+        <mxCell id="wv3WHDeKKetpDVu-H1sv-69" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.005;entryY=0.527;entryDx=0;entryDy=0;entryPerimeter=0;endWidth=33;endSize=20;width=26;strokeWidth=2;fillColor=#fad7ac;strokeColor=#b46504;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="678" y="1251.7799999999997" as="sourcePoint" />
-            <mxPoint x="748" y="1240" as="targetPoint" />
+            <mxPoint x="680" y="1199.9999999999998" as="sourcePoint" />
+            <mxPoint x="901.0700000000002" y="1199.9980000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wv3WHDeKKetpDVu-H1sv-70" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#C25954;strokeColor=none;shadow=0;glass=0;gradientColor=#CB8483;gradientDirection=north;" value="" vertex="1">
-          <mxGeometry height="100" width="200" x="660" y="1400" as="geometry" />
+          <mxGeometry height="100" width="200" x="692" y="1400" as="geometry" />
         </mxCell>
         <mxCell id="wv3WHDeKKetpDVu-H1sv-71" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Geothermal resource&lt;/span&gt;" vertex="1">
           <mxGeometry height="70" width="108" x="310" y="640" as="geometry" />
         </mxCell>
         <mxCell id="wv3WHDeKKetpDVu-H1sv-72" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Geothermal resource&lt;/span&gt;" vertex="1">
           <mxGeometry height="70" width="108" x="305.63" y="1490" as="geometry" />
+        </mxCell>
+        <mxCell id="wv3WHDeKKetpDVu-H1sv-73" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=6;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="75" y="1320" as="sourcePoint" />
+            <mxPoint x="885" y="1320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wv3WHDeKKetpDVu-H1sv-74" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endWidth=33;endSize=20;width=26;strokeWidth=2;fillColor=#fad7ac;strokeColor=#b46504;gradientColor=#C25954;" target="wv3WHDeKKetpDVu-H1sv-70" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="792" y="1270" />
+            </Array>
+            <mxPoint x="681.46" y="1270.0019999999995" as="sourcePoint" />
+            <mxPoint x="902.5300000000002" y="1270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wv3WHDeKKetpDVu-H1sv-75" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Hot UTES&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="108" x="738" y="1490" as="geometry" />
+        </mxCell>
+        <mxCell id="wv3WHDeKKetpDVu-H1sv-76" edge="1" parent="1" source="wv3WHDeKKetpDVu-H1sv-70" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=33;endSize=20;width=26;strokeWidth=2;fillColor=#fad7ac;strokeColor=#b46504;gradientColor=#C25954;exitX=0.99;exitY=0.3;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="1000" y="1430" />
+            </Array>
+            <mxPoint x="892" y="1397.0019999999995" as="sourcePoint" />
+            <mxPoint x="1000.2216304347826" y="1320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wv3WHDeKKetpDVu-H1sv-77" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.005;entryY=0.527;entryDx=0;entryDy=0;entryPerimeter=0;endWidth=33;endSize=20;width=26;strokeWidth=2;fillColor=#C25954;strokeColor=#b46504;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="890.93" y="1480.0019999999995" as="sourcePoint" />
+            <mxPoint x="1112.0000000000002" y="1480" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
