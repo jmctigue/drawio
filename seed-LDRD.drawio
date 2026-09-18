@@ -160,6 +160,15 @@
             <mxPoint x="748" y="1240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="wv3WHDeKKetpDVu-H1sv-70" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#C25954;strokeColor=none;shadow=0;glass=0;gradientColor=#CB8483;gradientDirection=north;" value="" vertex="1">
+          <mxGeometry height="100" width="200" x="660" y="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="wv3WHDeKKetpDVu-H1sv-71" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Geothermal resource&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="108" x="310" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="wv3WHDeKKetpDVu-H1sv-72" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Geothermal resource&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="108" x="305.63" y="1490" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
