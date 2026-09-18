@@ -53,7 +53,7 @@
           <mxGeometry height="170" width="191.25" x="810" y="41" as="geometry" />
         </mxCell>
         <mxCell id="wv3WHDeKKetpDVu-H1sv-17" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Iconoir_Vol_1-2338/battery-charging-652.svg;rotation=-90;strokeWidth=34;imageBorder=none;" value="" vertex="1">
-          <mxGeometry height="191.25" width="191.25" x="810" y="261" as="geometry" />
+          <mxGeometry height="191.25" width="191.25" x="810" y="281" as="geometry" />
         </mxCell>
         <mxCell id="wv3WHDeKKetpDVu-H1sv-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Production&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;well&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="90" x="110" y="291" as="geometry" />
@@ -71,7 +71,7 @@
           <mxGeometry height="70" width="244" x="783.63" as="geometry" />
         </mxCell>
         <mxCell id="wv3WHDeKKetpDVu-H1sv-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;BESS&lt;/span&gt;" vertex="1">
-          <mxGeometry height="70" width="244" x="783.63" y="211" as="geometry" />
+          <mxGeometry height="70" width="244" x="783.63" y="231" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
