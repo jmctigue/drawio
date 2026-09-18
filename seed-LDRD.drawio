@@ -5,73 +5,82 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wv3WHDeKKetpDVu-H1sv-7" parent="1" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.misc.cooling_tower;strokeWidth=4;" value="" vertex="1">
-          <mxGeometry height="120" width="100" x="502" y="74" as="geometry" />
+          <mxGeometry height="120" width="100" x="512" y="323" as="geometry" />
         </mxCell>
         <mxCell id="wv3WHDeKKetpDVu-H1sv-6" parent="1" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.misc.cooling_tower;strokeWidth=4;" value="" vertex="1">
-          <mxGeometry height="120" width="100" x="388" y="74" as="geometry" />
+          <mxGeometry height="120" width="100" x="398" y="323" as="geometry" />
         </mxCell>
         <mxCell id="wv3WHDeKKetpDVu-H1sv-5" parent="1" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.misc.cooling_tower;strokeWidth=4;" value="" vertex="1">
-          <mxGeometry height="120" width="100" x="277" y="74" as="geometry" />
+          <mxGeometry height="120" width="100" x="287" y="323" as="geometry" />
         </mxCell>
         <mxCell id="wv3WHDeKKetpDVu-H1sv-1" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Energy_and_Power_Glyph_24_px-2259/Factory_industry_mill_power_plant_production_unit-514.svg" value=" " vertex="1">
-          <mxGeometry height="140" width="140" x="110" y="91" as="geometry" />
+          <mxGeometry height="140" width="140" x="120" y="340" as="geometry" />
         </mxCell>
         <mxCell id="wv3WHDeKKetpDVu-H1sv-2" parent="1" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.misc.cooling_tower;strokeWidth=4;" value="" vertex="1">
-          <mxGeometry height="120" width="100" x="240" y="97" as="geometry" />
+          <mxGeometry height="120" width="100" x="250" y="346" as="geometry" />
         </mxCell>
         <mxCell id="wv3WHDeKKetpDVu-H1sv-3" parent="1" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.misc.cooling_tower;strokeWidth=4;" value="" vertex="1">
-          <mxGeometry height="120" width="100" x="350" y="97" as="geometry" />
+          <mxGeometry height="120" width="100" x="360" y="346" as="geometry" />
         </mxCell>
         <mxCell id="wv3WHDeKKetpDVu-H1sv-4" parent="1" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.misc.cooling_tower;strokeWidth=4;" value="" vertex="1">
-          <mxGeometry height="120" width="100" x="460" y="97" as="geometry" />
+          <mxGeometry height="120" width="100" x="470" y="346" as="geometry" />
         </mxCell>
         <mxCell id="wv3WHDeKKetpDVu-H1sv-8" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=6;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="80" y="225" as="sourcePoint" />
-            <mxPoint x="610" y="225" as="targetPoint" />
+            <mxPoint x="90" y="474" as="sourcePoint" />
+            <mxPoint x="650" y="474" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wv3WHDeKKetpDVu-H1sv-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#EA6B66;strokeColor=none;shadow=0;glass=0;gradientColor=#F19C99;gradientDirection=north;" value="" vertex="1">
-          <mxGeometry height="100" width="200" x="102" y="421" as="geometry" />
+          <mxGeometry height="100" width="200" x="112" y="670" as="geometry" />
         </mxCell>
         <mxCell id="wv3WHDeKKetpDVu-H1sv-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#67AB9F;strokeColor=none;shadow=0;glass=0;gradientColor=#F19C99;gradientDirection=south;" value="" vertex="1">
-          <mxGeometry height="100" width="200" x="410" y="421" as="geometry" />
+          <mxGeometry height="100" width="200" x="420" y="670" as="geometry" />
         </mxCell>
         <mxCell id="wv3WHDeKKetpDVu-H1sv-12" edge="1" parent="1" source="wv3WHDeKKetpDVu-H1sv-9" style="shape=link;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.653;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" target="wv3WHDeKKetpDVu-H1sv-1" value="">
           <mxGeometry height="100" relative="1" width="100" as="geometry">
-            <mxPoint x="110" y="341" as="sourcePoint" />
-            <mxPoint x="210" y="241" as="targetPoint" />
+            <mxPoint x="120" y="590" as="sourcePoint" />
+            <mxPoint x="220" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wv3WHDeKKetpDVu-H1sv-13" edge="1" parent="1" source="wv3WHDeKKetpDVu-H1sv-11" style="shape=link;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;fillColor=#f8cecc;strokeColor=#67AB9F;" target="wv3WHDeKKetpDVu-H1sv-4" value="">
           <mxGeometry height="100" relative="1" width="100" as="geometry">
-            <mxPoint x="451" y="522" as="sourcePoint" />
-            <mxPoint x="450" y="331" as="targetPoint" />
+            <mxPoint x="461" y="771" as="sourcePoint" />
+            <mxPoint x="460" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wv3WHDeKKetpDVu-H1sv-15" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/font-awesome/1/Solar_Panel.svg;strokeWidth=0;" value="" vertex="1">
-          <mxGeometry height="170" width="191.25" x="704" y="41" as="geometry" />
+          <mxGeometry height="170" width="191.25" x="198" y="71" as="geometry" />
         </mxCell>
         <mxCell id="wv3WHDeKKetpDVu-H1sv-17" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Iconoir_Vol_1-2338/battery-charging-652.svg;rotation=-90;strokeWidth=34;imageBorder=none;" value="" vertex="1">
-          <mxGeometry height="191.25" width="191.25" x="704" y="281" as="geometry" />
+          <mxGeometry height="160" width="160" x="394" y="81" as="geometry" />
         </mxCell>
         <mxCell id="wv3WHDeKKetpDVu-H1sv-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Production&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;well&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="90" x="110" y="291" as="geometry" />
+          <mxGeometry height="70" width="90" x="120" y="470" as="geometry" />
         </mxCell>
         <mxCell id="wv3WHDeKKetpDVu-H1sv-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Injection well&lt;/span&gt;" vertex="1">
-          <mxGeometry height="70" width="90" x="410" y="291" as="geometry" />
+          <mxGeometry height="70" width="90" x="422" y="470" as="geometry" />
         </mxCell>
         <mxCell id="wv3WHDeKKetpDVu-H1sv-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Geothermal power cycle&lt;/span&gt;" vertex="1">
-          <mxGeometry height="70" width="108" x="126" y="21" as="geometry" />
+          <mxGeometry height="70" width="108" x="136" y="270" as="geometry" />
         </mxCell>
         <mxCell id="wv3WHDeKKetpDVu-H1sv-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Heat rejection system&lt;/span&gt;" vertex="1">
-          <mxGeometry height="70" width="244" x="340" y="21" as="geometry" />
+          <mxGeometry height="70" width="244" x="350" y="270" as="geometry" />
         </mxCell>
         <mxCell id="wv3WHDeKKetpDVu-H1sv-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Solar PV&lt;/span&gt;" vertex="1">
-          <mxGeometry height="70" width="244" x="677.63" as="geometry" />
+          <mxGeometry height="70" width="244" x="171.63" y="30" as="geometry" />
         </mxCell>
         <mxCell id="wv3WHDeKKetpDVu-H1sv-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;BESS&lt;/span&gt;" vertex="1">
-          <mxGeometry height="70" width="244" x="677.63" y="231" as="geometry" />
+          <mxGeometry height="70" width="244" x="350" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wv3WHDeKKetpDVu-H1sv-24" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/temaki/1/Power_Tower.svg" value="" vertex="1">
+          <mxGeometry height="214" width="214" x="900" y="299" as="geometry" />
+        </mxCell>
+        <mxCell id="wv3WHDeKKetpDVu-H1sv-25" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.005;entryY=0.527;entryDx=0;entryDy=0;entryPerimeter=0;endWidth=67;endSize=25;width=37;strokeWidth=2;fillColor=#fad7ac;strokeColor=#b46504;" target="wv3WHDeKKetpDVu-H1sv-24" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="680" y="411.78" as="sourcePoint" />
+            <mxPoint x="750" y="400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
