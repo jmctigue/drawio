@@ -6094,7 +6094,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Page-5" id="K5jauJMcEooBew-zwRHw">
-    <mxGraphModel dx="-1997" dy="-12390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="2500" math="0" shadow="0">
+    <mxGraphModel dx="-1196" dy="-11868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="2500" math="0" shadow="0">
       <root>
         <mxCell id="A6JtWhkQcujesudRvrnH-0" />
         <mxCell id="A6JtWhkQcujesudRvrnH-1" parent="A6JtWhkQcujesudRvrnH-0" />
@@ -6573,6 +6573,9 @@
             <mxPoint x="7670" y="17881" as="sourcePoint" />
             <mxPoint x="7824" y="17790" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4_bzfzGH74pukoVCAlI9-0" parent="A6JtWhkQcujesudRvrnH-1" style="shape=mxgraph.basic.polygon;polyCoords=[[0.07143,0.13043],[0.17431,0.18875],[0.81651,0.81791],[0.97248,0.98446],[0.78899,0.92154]];polyCurves=[[&quot;Q&quot;,0,0],[&quot;Q&quot;,0.44495,0.48853],[&quot;Q&quot;,1,0.91304],[&quot;Q&quot;,0.85714,1],[&quot;Q&quot;,0.34862,0.58105]];polyline=0;whiteSpace=wrap;html=1;strokeColor=none;perimeterSpacing=3;fillColor=#A9C4EB;opacity=50;" value="" vertex="1">
+          <mxGeometry height="2702" width="2180" x="7350" y="15600" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
